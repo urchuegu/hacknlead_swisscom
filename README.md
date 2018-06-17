@@ -4,11 +4,11 @@ Location: Zurich, Switzerland
 Date: 16-17, June, 2018
 
 Project owners (in alphabetical order): 
-* Arantxa Urchueguia Fornes
-* Chris Martins
-* Ekaterina Stepanova
-* Marina Shkapina
-* Sarvenaz Choobdar
+* Arantxa Urchueguia Fornes (arantxa.urchueguia@gmail.com)
+* Chris Martins (chris.snophan@gmail.com)
+* Ekaterina Stepanova (ekfila@gmail.com)
+* Marina Shkapina (shkapmari@gmail.com)
+* Sarvenaz Choobdar (schoobdar@gmail.com)
 
 
 
