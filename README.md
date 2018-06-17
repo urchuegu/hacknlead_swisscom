@@ -4,11 +4,11 @@ Location: Zurich, Switzerland
 Date: 16-17, June, 2018
 
 Project owners (in alphabetical order): 
-* Arantxa Urchueguia Fornes
-* Chris Martins
-* Ekaterina Stepanova
-* Marina Shkapina
-* Sarvenaz Choobdar
+* Arantxa Urchueguia Fornes (arantxa.urchueguia@gmail.com)
+* Chris Martins (chris.snophan@gmail.com)
+* Ekaterina Stepanova (ekfila@gmail.com)
+* Marina Shkapina (shkapmari@gmail.com)
+* Sarvenaz Choobdar (schoobdar@gmail.com)
 
 
 
@@ -49,4 +49,12 @@ We then added more features including financial features (funding rounds, juror 
 
 
 ## Further Improvement
+The StarRank project was completed in less than 48 hours, although there was substantial  group effort and rapport, and the team is satisfactory of the results, there is much room for further improvement. 
+
+Areas to be improved:
+Although we were granted access to the extensive CrunchBase database, and performed more than a dozen round of data cleaning and preparation, the CrunchBase corpus is sparse with many missing attributes in the company as well as the people profiles. We could produce better results with more data, perhaps scraped from the web. 
+
+We found that a small number of successful companies tend to have higher values for a certain features than other successful ones, so is the case for some unsuccessful companies, which may cause false negatives and false positives potentially. A way to bridge such discrepancies is yet to be explored.
+
+
 
