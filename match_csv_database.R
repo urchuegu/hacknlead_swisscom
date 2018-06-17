@@ -1,3 +1,6 @@
+#######Reads the organizations file from Cruncbahse and matches it to the csv files we have by company name. The saved file can then be used to
+#######add more features from the database
+
 #####Load list of winning companies ######
 library(dplyr)
 library(tidyr)
