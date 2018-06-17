@@ -26,6 +26,8 @@ trim_lower_name <- function(x){
 ###What are the 100 winners of the last years
 
 #Organizations in crunch database
+## Database downloaded from :
+##### https://api.crunchbase.com/v3.1/csv_export/csv_export.tar.gz?user_key=?
 organizations <- read.csv('csv_export/organizations.csv')
 
 ###this year candidates
