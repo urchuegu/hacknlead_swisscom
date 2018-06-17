@@ -9,12 +9,8 @@ Project owners (in alphabetical order):
 * Ekaterina Stepanova
 * Marina Shkapina
 * Sarvenaz Choobdar
-* Viola Snophan
-* Xiao Jean Chen
 
-Mentors:
-* Angelo Brillout
-* Penny Schiffer
+
 
 ## The Challenge
 Forget investor’s gut feeling! Let’s put some objectivity into startup rating! By using machine learning we’ll create a fully automated VC to predict the TOP 100 startups that be announced in this year’s award ceremony on Sep 5. They’ll provide the ratings and results of past competitions (100 jurors, past top 100 winners and 2500 startups).
