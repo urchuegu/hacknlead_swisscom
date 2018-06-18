@@ -9,6 +9,7 @@ Project owners (in alphabetical order):
 * Ekaterina Stepanova (ekfila@gmail.com)
 * Marina Shkapina (shkapmari@gmail.com)
 * Sarvenaz Choobdar (schoobdar@gmail.com)
+* Xiao Jean Chen (xiaojean.chen@gmail.com)
 
 
 
